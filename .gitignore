@@ -6,12 +6,12 @@
             /src/test/javascript/PhantomJS*/
 
             ######################
-            # Node
-            ######################
-            /node/
-            node_tmp/
-            node_modules/
-            npm-debug.log.*
+#            # Node
+#            ######################
+#            /node/
+#            node_tmp/
+#            node_modules/
+#            npm-debug.log.*
 
             ######################
             # SASS
